@@ -1,0 +1,73 @@
+2019-08-03 15:09:02.260  INFO 15804 --- [restartedMain] com.FirstSpringBootApp                   : Starting FirstSpringBootApp on DESKTOP-MM8IUUP with PID 15804 (E:\mygit\demo\target\classes started by HP in E:\mygit\demo)
+2019-08-03 15:09:02.261  INFO 15804 --- [restartedMain] com.FirstSpringBootApp                   : No active profile set, falling back to default profiles: default
+2019-08-03 15:09:03.053  INFO 15804 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-08-03 15:09:03.055  INFO 15804 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-08-03 15:09:03.055  INFO 15804 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-03 15:09:03.086  INFO 15804 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-08-03 15:09:03.086  INFO 15804 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 823 ms
+2019-08-03 15:09:03.178  INFO 15804 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-03 15:09:03.225  INFO 15804 --- [restartedMain] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-08-03 15:09:03.238  INFO 15804 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-08-03 15:09:03.269  INFO 15804 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-08-03 15:09:03.270  INFO 15804 --- [restartedMain] com.FirstSpringBootApp                   : Started FirstSpringBootApp in 1.036 seconds (JVM running for 2853.235)
+2019-08-03 15:09:03.274  INFO 15804 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-08-03 15:09:06.757  INFO 15804 --- [http-nio-8080-exec-10] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-03 15:09:06.758  INFO 15804 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-08-03 15:09:06.762  INFO 15804 --- [http-nio-8080-exec-10] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2019-08-03 15:09:06.765  INFO 15804 --- [http-nio-8080-exec-10] com.controllers.UsersController          : received request to get user details by id
+2019-08-03 15:11:55.754  INFO 15804 --- [Thread-40] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-08-03 15:11:55.755  INFO 15804 --- [Thread-40] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-03 15:11:56.160  INFO 15804 --- [restartedMain] com.FirstSpringBootApp                   : Starting FirstSpringBootApp on DESKTOP-MM8IUUP with PID 15804 (E:\mygit\demo\target\classes started by HP in E:\mygit\demo)
+2019-08-03 15:11:56.161  INFO 15804 --- [restartedMain] com.FirstSpringBootApp                   : No active profile set, falling back to default profiles: default
+2019-08-03 15:11:57.099  INFO 15804 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-08-03 15:11:57.116  INFO 15804 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-08-03 15:11:57.117  INFO 15804 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-03 15:11:57.153  INFO 15804 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-08-03 15:11:57.153  INFO 15804 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 990 ms
+2019-08-03 15:11:57.332  INFO 15804 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-03 15:11:57.489  INFO 15804 --- [restartedMain] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-08-03 15:11:57.503  INFO 15804 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-08-03 15:11:57.541  INFO 15804 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-08-03 15:11:57.547  INFO 15804 --- [restartedMain] com.FirstSpringBootApp                   : Started FirstSpringBootApp in 1.414 seconds (JVM running for 3027.511)
+2019-08-03 15:11:57.548  INFO 15804 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-08-03 15:12:02.448  INFO 15804 --- [Thread-46] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-08-03 15:12:02.449  INFO 15804 --- [Thread-46] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-03 15:12:02.862  INFO 15804 --- [restartedMain] com.FirstSpringBootApp                   : Starting FirstSpringBootApp on DESKTOP-MM8IUUP with PID 15804 (E:\mygit\demo\target\classes started by HP in E:\mygit\demo)
+2019-08-03 15:12:02.863  INFO 15804 --- [restartedMain] com.FirstSpringBootApp                   : No active profile set, falling back to default profiles: default
+2019-08-03 15:12:03.642  INFO 15804 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-08-03 15:12:03.644  INFO 15804 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-08-03 15:12:03.645  INFO 15804 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-03 15:12:03.671  INFO 15804 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-08-03 15:12:03.672  INFO 15804 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 806 ms
+2019-08-03 15:12:03.765  INFO 15804 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-03 15:12:03.811  INFO 15804 --- [restartedMain] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-08-03 15:12:03.828  INFO 15804 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-08-03 15:12:03.848  INFO 15804 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-08-03 15:12:03.849  INFO 15804 --- [restartedMain] com.FirstSpringBootApp                   : Started FirstSpringBootApp in 1.009 seconds (JVM running for 3033.812)
+2019-08-03 15:12:03.854  INFO 15804 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-08-03 15:12:15.711  INFO 15804 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-03 15:12:15.712  INFO 15804 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-08-03 15:12:15.719  INFO 15804 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-08-03 15:13:00.841  INFO 15804 --- [Thread-52] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-08-03 15:13:00.842  INFO 15804 --- [Thread-52] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-03 15:15:18.594  INFO 2004 --- [restartedMain] com.FirstSpringBootApp                   : Starting FirstSpringBootApp on DESKTOP-MM8IUUP with PID 2004 (E:\mygit\demo\target\classes started by HP in E:\mygit\demo)
+2019-08-03 15:15:18.600  INFO 2004 --- [restartedMain] com.FirstSpringBootApp                   : No active profile set, falling back to default profiles: default
+2019-08-03 15:15:18.724  INFO 2004 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-08-03 15:15:18.725  INFO 2004 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-08-03 15:15:24.801  INFO 2004 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-08-03 15:15:24.837  INFO 2004 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-08-03 15:15:24.838  INFO 2004 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-03 15:15:25.158  INFO 2004 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-08-03 15:15:25.158  INFO 2004 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 6432 ms
+2019-08-03 15:15:26.702  INFO 2004 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-03 15:15:27.054  INFO 2004 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-03 15:15:27.141  INFO 2004 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-08-03 15:15:27.546  INFO 2004 --- [restartedMain] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-08-03 15:15:27.636  INFO 2004 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2019-08-03 15:15:27.680  INFO 2004 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2019-08-03 15:15:27.745  INFO 2004 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2019-08-03 15:15:28.095  INFO 2004 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-08-03 15:15:28.099  INFO 2004 --- [restartedMain] com.FirstSpringBootApp                   : Started FirstSpringBootApp in 10.304 seconds (JVM running for 11.085)
+2019-08-03 15:15:38.242  INFO 2004 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-03 15:15:38.242  INFO 2004 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-08-03 15:15:38.260  INFO 2004 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 18 ms
