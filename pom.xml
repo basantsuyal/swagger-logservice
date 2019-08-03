@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.java</groupId>
-	<artifactId>firstSpringBootApp</artifactId>
+	<artifactId>swagger-logservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>firstSpringBootApp</name>
-	<description>firstSpringBootApp project for Spring Boot</description>
+	<name>swagger-logservice</name>
+	<description>swagger-logservice project for Spring Boot</description>
 
 	<properties>
 		<java.version>1.8</java.version>
